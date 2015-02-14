@@ -1,3 +1,6 @@
 [submodule "quadrotor_obstacle_avoidance"]
 	path = quadrotor_obstacle_avoidance
 	url = https://github.com/DaikiMaekawa/quadrotor_obstacle_avoidance
+[submodule "quadrotor_navigation"]
+	path = quadrotor_navigation
+	url = https://github.com/DaikiMaekawa/quadrotor_navigation
