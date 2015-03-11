@@ -4,3 +4,6 @@
 [submodule "quadrotor_navigation"]
 	path = quadrotor_navigation
 	url = https://github.com/DaikiMaekawa/quadrotor_navigation
+[submodule "kobuki_navigation"]
+	path = kobuki_navigation
+	url = https://github.com/DaikiMaekawa/kobuki_navigation
